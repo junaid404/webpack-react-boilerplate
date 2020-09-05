@@ -1,0 +1,38 @@
+@keyframes rotate-linear {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(180deg);
+  }
+}
+
+.spin {
+  width: 10rem;
+  margin-top: 4rem;
+  animation: rotate-linear forwards 5s linear infinite;
+}
+
+.container {
+  background-color: #444;
+  color: '#fafafa';
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bottom {
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.link {
+  color: #3ba472;
+}
