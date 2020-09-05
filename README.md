@@ -4,16 +4,13 @@
 
 This repo is a boilerplate for React-Babel-Webpack project. You could use it as a base to build your own web app.
 
-<div style="text-align: center">Start your next react project in seconds 🚀</div>
-<div style="text-align: center">
+Start your next react project in seconds 🚀
 
 ![](https://img.shields.io/badge/Webpack-4.44.1-3BA472?style=flat&logo=Webpack)
 ![](https://img.shields.io/badge/WebpackDevServer-3.11.0-3BA472?style=flat&logo=Webpack)
 ![](https://img.shields.io/badge/React-16.13.1-3BA472?style=flat&logo=React)
 ![](https://img.shields.io/badge/ReactRouterDOM-5.2.0-3BA472?style=flat&logo=React-Router)
 ![](https://img.shields.io/badge/Babel-7.11.6-3BA472?style=flat&logo=Babel)
-
-</div>
 
 ## How To Use 📖
 
@@ -23,7 +20,7 @@ First, Download or clone the repo.
 $ git clone https://github.com/junaid404/webpack-react-boilerplate.git <App name>
 ```
 
-\$ Second, delete the old .git history and initialize new history.
+Second, delete the old .git history and initialize new history.
 
 ```
 $ rm -rf .git
