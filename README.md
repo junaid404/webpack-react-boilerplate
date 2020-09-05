@@ -52,7 +52,7 @@ From there, you start to develop your own code in the app directory. When you fi
 npm run build
 ```
 
-### 💡Project Features Checklist
+### 💡 Project Features Checklist
 
 - [x] Modern ES6 Features
 - [x] Live Server For Development
