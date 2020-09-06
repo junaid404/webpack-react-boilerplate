@@ -27,13 +27,13 @@ $ rm -rf .git
 $ git init
 ```
 
-Third, install the dependencies.
+Third, install the dependencies.if you are using yarn it will be **yarn install**
 
 ```
 $ npm install
 ```
 
-Then, launch the boilerplate app.
+Then, launch the boilerplate app. for yarn it will be **yarn start**
 
 ```
 $ npm start
@@ -48,6 +48,7 @@ From there, you start to develop your own code in the app directory. When you fi
 ```
 npm run build
 ```
+for yarn it will be **yarn build**
 
 ### 💡 Project Features Checklist
 
