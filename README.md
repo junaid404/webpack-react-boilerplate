@@ -27,17 +27,19 @@ $ rm -rf .git
 $ git init
 ```
 
-Third, install the dependencies.if you are using yarn it will be **yarn install**
+Third, install the dependencies.
 
 ```
 $ npm install
 ```
+> if you are using yarn it will be **yarn install**.
 
-Then, launch the boilerplate app. for yarn it will be **yarn start**
+Then, launch the boilerplate app.
 
 ```
 $ npm start
 ```
+> for yarn it will be **yarn start**.
 
 Now you should see a new browser window/tab opening and a title of "React Webpack Boilerplate" in http://127.0.0.1:3000.
 
