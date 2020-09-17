@@ -31,15 +31,17 @@ Third, install the dependencies.
 
 ```
 $ npm install
+# or
+$ yarn install
 ```
-> if you are using yarn it will be **yarn install**.
 
 Then, launch the boilerplate app.
 
 ```
 $ npm start
+# or
+$ yarn start
 ```
-> for yarn it will be **yarn start**.
 
 Now you should see a new browser window/tab opening and a title of "React Webpack Boilerplate" in http://127.0.0.1:3000.
 
@@ -49,8 +51,9 @@ From there, you start to develop your own code in the app directory. When you fi
 
 ```
 npm run build
+# or
+yarn build
 ```
-for yarn it will be **yarn build**
 
 ### 💡 Project Features Checklist
 
